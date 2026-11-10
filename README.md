@@ -5,7 +5,7 @@ no ports to open, no IP addresses to send around. Every build lives in its own f
 
 **[⬇ Download the latest version](https://github.com/HellCoreDev/hellcore-releases/releases/latest)** · Windows 10/11 x64 · free
 
-![HellCore library](images/library.png)
+![HellCore library](library.png)
 
 ## Why HellCore
 
@@ -20,7 +20,7 @@ no ports to open, no IP addresses to send around. Every build lives in its own f
 - **Your builds stay safe.** Backups of worlds and builds, "Update build" keeps your worlds, key bindings and your own
   mods, moving to another Minecraft version makes a copy.
 
-![Friends](images/friends.png)
+![Friends](friends.png)
 
 ## Features
 
@@ -37,7 +37,7 @@ no ports to open, no IP addresses to send around. Every build lives in its own f
 - **Russian and English interface**, any accent colour.
 - **Updates by itself**, installs only signed releases.
 
-![Catalog](images/catalog.png)
+![Catalog](catalog.png)
 
 ## Install
 
